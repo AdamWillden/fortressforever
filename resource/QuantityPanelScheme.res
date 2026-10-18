@@ -169,6 +169,106 @@ Scheme
 				"custom"	"1"
 			}
 		}
+		"QuantityPanel15"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"20"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanel16"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"21"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanel17"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"22"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanel18"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"23"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanel19"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"24"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanel20"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"25"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanel21"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"26"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanel22"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"27"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanel23"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"28"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanel24"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"29"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
 		"QuantityPanelShadow0"
 		{
 			"1"
@@ -334,6 +434,116 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		"QuantityPanelShadow15"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"20"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelShadow16"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"21"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelShadow17"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"22"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelShadow18"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"23"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelShadow19"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"24"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelShadow20"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"25"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelShadow21"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"26"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelShadow22"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"27"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelShadow23"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"28"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelShadow24"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"29"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
 		"QuantityPanelHeader0"
 		{
 			"1"
@@ -480,6 +690,106 @@ Scheme
 			{
 				"name"		"FortressForever - HUD Font"
 				"tall"			"19"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader15"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"20"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader16"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"21"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader17"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"22"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader18"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"23"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader19"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"24"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader20"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"25"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader21"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"26"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader22"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"27"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader23"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"28"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityPanelHeader24"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"29"
 				"antialias"	"1"
 				"custom"	"1"
 			}
@@ -644,6 +954,116 @@ Scheme
 			{
 				"name"		"FortressForever - HUD Font"
 				"tall"			"19"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow15"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"20"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow16"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"21"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow17"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"22"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow18"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"23"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow19"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"24"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow20"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"25"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow21"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"26"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow22"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"27"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow23"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"28"
+				"antialias"	"1"
+				"custom"	"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityPanelHeaderShadow24"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"29"
 				"antialias"	"1"
 				"custom"	"1"
 				"dropshadow"	"1"
@@ -1219,6 +1639,106 @@ Scheme
 				"custom"	"1"
 			}
 		}
+		"QuantityItem15"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"20"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityItem16"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"21"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityItem17"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"22"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityItem18"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"23"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityItem19"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"24"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityItem20"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"25"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityItem21"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"26"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityItem22"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"27"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityItem23"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"28"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
+		"QuantityItem24"
+		{
+			"1"
+			{
+				"name"		"FortressForever - HUD Font"
+				"tall"			"29"
+				"antialias"	"1"
+				"custom"	"1"
+			}
+		}
 		"QuantityItemShadow0"
 		{
 			"1"
@@ -1384,6 +1904,116 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		"QuantityItemShadow15"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"20"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemShadow16"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"21"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemShadow17"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"22"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemShadow18"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"23"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemShadow19"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"24"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemShadow20"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"25"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemShadow21"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"26"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemShadow22"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"27"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemShadow23"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"28"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemShadow24"
+		{
+			"1"
+			{
+				"name"				"FortressForever - HUD Font"
+				"tall"					"29"
+				"antialias"			"1"
+				"custom"			"1"
+				"dropshadow"	"1"
+			}
+		}
 		"QuantityItemTahoma0"
 		{
 			"1"
@@ -1530,6 +2160,106 @@ Scheme
 			{
 				"name"		"Tahoma"
 				"tall"			"20"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma15"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"21"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma16"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"22"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma17"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"23"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma18"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"24"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma19"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"25"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma20"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"26"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma21"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"27"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma22"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"28"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma23"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"29"
+				"weight"  	"700"
+				"antialias"	"1"
+			}
+		}
+		"QuantityItemTahoma24"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"			"30"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -1694,6 +2424,116 @@ Scheme
 			{
 				"name"				"Tahoma"
 				"tall"					"20"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow15"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"21"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow16"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"22"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow17"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"23"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow18"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"24"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow19"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"25"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow20"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"26"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow21"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"27"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow22"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"28"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow23"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"29"
+				"weight"  	"700"
+				"antialias"			"1"
+				"dropshadow"	"1"
+			}
+		}
+		"QuantityItemTahomaShadow24"
+		{
+			"1"
+			{
+				"name"				"Tahoma"
+				"tall"					"30"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
