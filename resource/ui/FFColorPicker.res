@@ -1,9 +1,9 @@
 "resource/ui/FFColorPicker.res"
 {
-	"FFColourPicker"
+	"FFColorPicker"
 	{
 		"ControlName"		"FFColorPickerDialog"
-		"fieldName"		"FFColourPicker"
+		"fieldName"		"FFColorPicker"
 		"xpos"		"330"
 		"ypos"		"258"
 		"wide"		"380"
