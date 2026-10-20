@@ -899,4 +899,16 @@
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
 	}
+	"TextFontVerdana"
+	{
+		"ControlName"		"CheckButton"
+		"fieldName"		"TextFontVerdana"
+		"xpos"		"260"
+		"ypos"		"140"
+		"wide"		"160"
+		"tall"		"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#GameUI_UseVerdanaFont"
+	}
 }
