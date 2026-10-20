@@ -911,4 +911,24 @@
 		"enabled"		"1"
 		"labelText"		"#GameUI_UseVerdanaFont"
 	}
+	"showText"
+	{
+		"ControlName"		"CheckButton"
+		"fieldName"		"ShowText"
+		"xpos"		"5"
+		"ypos"		"5"
+		"wide"		"140"
+		"tall"		"20"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"#GameUI_Show"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"Default"		"0"
+	}
 }
