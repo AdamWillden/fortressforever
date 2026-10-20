@@ -1055,10 +1055,10 @@
 		"use_proportional_insets"		"0"
 		"Default"		"0"
 	}
-	"fontTahoma"
+	"fontVerdana"
 	{
 		"ControlName"		"CheckButton"
-		"fieldName"		"FontTahoma"
+		"fieldName"		"FontVerdana"
 		"xpos"		"220"
 		"ypos"		"60"
 		"wide"		"100"
@@ -1071,7 +1071,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"labelText"		"Tahoma"
+		"labelText"		"Verdana"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
