@@ -21,7 +21,7 @@
 	{
 		"ControlName"		"FFColorPicker"
 		"fieldName"		"PanelColor"
-		"xpos"		"275"
+		"xpos"		"265"
 		"ypos"		"175"
 		"wide"		"50"
 		"tall"		"50"
@@ -38,7 +38,7 @@
 	{
 		"ControlName"		"CFFInputSlider"
 		"fieldName"		"PanelColorRed"
-		"xpos"		"95"
+		"xpos"		"85"
 		"ypos"		"165"
 		"wide"		"95"
 		"tall"		"20"
@@ -55,7 +55,7 @@
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"PanelColorRedInput"
-		"xpos"		"185"
+		"xpos"		"175"
 		"ypos"		"165"
 		"wide"		"32"
 		"tall"		"20"
@@ -77,7 +77,7 @@
 	{
 		"ControlName"		"CFFInputSlider"
 		"fieldName"		"PanelColorGreen"
-		"xpos"		"95"
+		"xpos"		"85"
 		"ypos"		"190"
 		"wide"		"95"
 		"tall"		"20"
@@ -94,7 +94,7 @@
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"PanelColorGreenInput"
-		"xpos"		"185"
+		"xpos"		"175"
 		"ypos"		"190"
 		"wide"		"32"
 		"tall"		"20"
@@ -116,7 +116,7 @@
 	{
 		"ControlName"		"CFFInputSlider"
 		"fieldName"		"PanelColorBlue"
-		"xpos"		"95"
+		"xpos"		"85"
 		"ypos"		"215"
 		"wide"		"95"
 		"tall"		"20"
@@ -133,7 +133,7 @@
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"PanelColorBlueInput"
-		"xpos"		"185"
+		"xpos"		"175"
 		"ypos"		"215"
 		"wide"		"32"
 		"tall"		"20"
@@ -155,7 +155,7 @@
 	{
 		"ControlName"		"CFFInputSlider"
 		"fieldName"		"PanelColorAlpha"
-		"xpos"		"95"
+		"xpos"		"85"
 		"ypos"		"240"
 		"wide"		"95"
 		"tall"		"20"
@@ -172,7 +172,7 @@
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"PanelColorAlphaInput"
-		"xpos"		"185"
+		"xpos"		"175"
 		"ypos"		"240"
 		"wide"		"32"
 		"tall"		"20"
@@ -194,7 +194,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"PanelColorColorMode"
-		"xpos"		"65"
+		"xpos"		"55"
 		"ypos"		"135"
 		"wide"		"150"
 		"tall"		"25"
@@ -216,7 +216,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"PanelColorBackground"
-		"xpos"		"235"
+		"xpos"		"225"
 		"ypos"		"135"
 		"zpos"		"-1"
 		"wide"		"128"
@@ -241,7 +241,7 @@
 	{
 		"ControlName"		"CFFInputSlider"
 		"fieldName"		"PanelMargin"
-		"xpos"		"95"
+		"xpos"		"85"
 		"ypos"		"60"
 		"wide"		"95"
 		"tall"		"20"
@@ -258,7 +258,7 @@
 	{
 		"ControlName"		"TextEntry"
 		"fieldName"		"PanelMarginInput"
-		"xpos"		"185"
+		"xpos"		"175"
 		"ypos"		"60"
 		"wide"		"32"
 		"tall"		"20"
@@ -280,9 +280,9 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"		"PanelTypeCombo"
-		"xpos"		"65"
-		"ypos"		"25"
-		"wide"		"150"
+		"xpos"		"440"
+		"ypos"		"70"
+		"wide"		"110"
 		"tall"		"25"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -330,7 +330,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"PanelColorRedLabel"
-		"xpos"		"20"
+		"xpos"		"10"
 		"ypos"		"165"
 		"wide"		"70"
 		"tall"		"20"
@@ -357,7 +357,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"PanelColorGreenLabel"
-		"xpos"		"20"
+		"xpos"		"10"
 		"ypos"		"190"
 		"wide"		"70"
 		"tall"		"20"
@@ -384,7 +384,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"PanelColorBlueLabel"
-		"xpos"		"20"
+		"xpos"		"10"
 		"ypos"		"215"
 		"wide"		"70"
 		"tall"		"20"
@@ -411,7 +411,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"PanelColorAlphaLabel"
-		"xpos"		"20"
+		"xpos"		"10"
 		"ypos"		"240"
 		"wide"		"70"
 		"tall"		"20"
@@ -438,7 +438,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"PanelColorModeLabel"
-		"xpos"		"65"
+		"xpos"		"55"
 		"ypos"		"115"
 		"wide"		"150"
 		"tall"		"20"
@@ -465,7 +465,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"PanelMarginLabel"
-		"xpos"		"20"
+		"xpos"		"10"
 		"ypos"		"60"
 		"wide"		"70"
 		"tall"		"20"
@@ -506,5 +506,100 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"		"1"
 		"title"		"#Frame_Untitled"
+	}
+	"ShowPanelBorder"
+	{
+		"ControlName"		"CheckButton"
+		"fieldName"		"ShowPanelBorder"
+		"xpos"		"375"
+		"ypos"		"40"
+		"wide"		"175"
+		"tall"		"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#GameUI_Show"
+	}
+	"PanelBorderWidthLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"PanelBorderWidthLabel"
+		"xpos"		"375"
+		"ypos"		"105"
+		"wide"		"60"
+		"tall"		"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#GameUI_Width"
+	}
+	"PanelBorderWidth"
+	{
+		"ControlName"		"CFFInputSlider"
+		"fieldName"		"PanelBorderWidth"
+		"xpos"		"440"
+		"ypos"		"105"
+		"wide"		"75"
+		"tall"		"20"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+	"PanelBorderWidthInput"
+	{
+		"ControlName"		"CLinkedTextEntry"
+		"fieldName"		"PanelBorderWidthInput"
+		"xpos"		"520"
+		"ypos"		"105"
+		"wide"		"30"
+		"tall"		"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"NumericInputOnly"		"1"
+	}
+	"PanelBorderColorDialogButton"
+	{
+		"ControlName"		"Button"
+		"fieldName"		"PanelBorderColorDialogButton"
+		"xpos"		"440"
+		"ypos"		"140"
+		"wide"		"45"
+		"tall"		"25"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		""
+	}
+	"PanelBorderColorLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"PanelBorderColorLabel"
+		"xpos"		"375"
+		"ypos"		"140"
+		"wide"		"60"
+		"tall"		"25"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#GameUI_Color"
+	}
+	"BorderHeading"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"BorderHeading"
+		"xpos"		"360"
+		"ypos"		"10"
+		"wide"		"200"
+		"tall"		"25"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#GameUI_Border"
+	}
+	"PanelCornersLabel"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"PanelCornersLabel"
+		"xpos"		"375"
+		"ypos"		"70"
+		"wide"		"60"
+		"tall"		"25"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#GameUI_Corners"
 	}
 }
