@@ -2019,7 +2019,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"6"
+				"tall"			"5"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2029,7 +2029,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"7"
+				"tall"			"6"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2039,7 +2039,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"8"
+				"tall"			"7"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2049,7 +2049,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"9"
+				"tall"			"8"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2059,7 +2059,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"10"
+				"tall"			"9"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2069,7 +2069,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"11"
+				"tall"			"9"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2079,7 +2079,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"12"
+				"tall"			"10"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2089,7 +2089,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"13"
+				"tall"			"11"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2099,7 +2099,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"14"
+				"tall"			"12"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2109,7 +2109,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"15"
+				"tall"			"13"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2119,7 +2119,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"16"
+				"tall"			"14"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2129,7 +2129,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"17"
+				"tall"			"15"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2139,7 +2139,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"18"
+				"tall"			"16"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2149,7 +2149,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"19"
+				"tall"			"16"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2159,7 +2159,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"20"
+				"tall"			"17"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2169,7 +2169,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"21"
+				"tall"			"18"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2179,7 +2179,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"22"
+				"tall"			"19"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2189,7 +2189,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"23"
+				"tall"			"20"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2199,7 +2199,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"24"
+				"tall"			"21"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2209,7 +2209,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"25"
+				"tall"			"22"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2219,7 +2219,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"26"
+				"tall"			"23"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2229,7 +2229,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"27"
+				"tall"			"23"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2239,7 +2239,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"28"
+				"tall"			"24"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2249,7 +2249,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"29"
+				"tall"			"25"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2259,7 +2259,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"			"30"
+				"tall"			"26"
 				"weight"  	"700"
 				"antialias"	"1"
 			}
@@ -2269,7 +2269,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"6"
+				"tall"					"5"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2280,7 +2280,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"7"
+				"tall"					"6"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2291,7 +2291,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"8"
+				"tall"					"7"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2302,7 +2302,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"9"
+				"tall"					"8"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2313,7 +2313,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"10"
+				"tall"					"9"
 				"weight"  	"700"
 				"antialias"			"12"
 				"dropshadow"	"1"
@@ -2324,7 +2324,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"11"
+				"tall"					"9"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2335,7 +2335,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"12"
+				"tall"					"10"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2346,7 +2346,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"13"
+				"tall"					"11"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2357,7 +2357,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"14"
+				"tall"					"12"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2368,7 +2368,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"15"
+				"tall"					"13"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2379,7 +2379,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"16"
+				"tall"					"14"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2390,7 +2390,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"17"
+				"tall"					"15"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2401,7 +2401,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"18"
+				"tall"					"16"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2412,7 +2412,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"19"
+				"tall"					"16"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2423,7 +2423,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"20"
+				"tall"					"17"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2434,7 +2434,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"21"
+				"tall"					"18"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2445,7 +2445,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"22"
+				"tall"					"19"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2456,7 +2456,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"23"
+				"tall"					"20"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2467,7 +2467,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"24"
+				"tall"					"21"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2478,7 +2478,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"25"
+				"tall"					"22"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2489,7 +2489,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"26"
+				"tall"					"23"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2500,7 +2500,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"27"
+				"tall"					"23"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2511,7 +2511,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"28"
+				"tall"					"24"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2522,7 +2522,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"29"
+				"tall"					"25"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
@@ -2533,7 +2533,7 @@ Scheme
 			"1"
 			{
 				"name"				"Verdana"
-				"tall"					"30"
+				"tall"					"26"
 				"weight"  	"700"
 				"antialias"			"1"
 				"dropshadow"	"1"
